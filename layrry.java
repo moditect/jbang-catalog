@@ -1,6 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 14+
 //REPOS jitpack
+//JAVAC_OPTIONS --enable-preview --release 14
 //DEPS com.github.moditect:layrry:master-SNAPSHOT
 
 import static java.lang.System.*;
