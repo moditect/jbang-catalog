@@ -2,7 +2,7 @@
 //JAVA 14+
 //REPOS jitpack
 //JAVAC_OPTIONS --enable-preview --release 14
-//JAVA_OPTIONS --enable-preview --release 14
+//JAVA_OPTIONS --enable-preview
 //DEPS com.github.moditect:layrry:master-SNAPSHOT
 
 import static java.lang.System.*;
