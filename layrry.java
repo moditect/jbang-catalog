@@ -3,7 +3,7 @@
 //REPOS jitpack
 //JAVAC_OPTIONS --enable-preview --release 14
 //JAVA_OPTIONS --enable-preview
-//DEPS com.github.moditect:layrry:master-SNAPSHOT
+//DEPS com.github.moditect.layrry:layrry-launcher:master-SNAPSHOT
 
 import static java.lang.System.*;
 
