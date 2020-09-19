@@ -10,6 +10,6 @@ import static java.lang.System.*;
 public class layrry {
 
     public static void main(String... args) throws Exception {
-        org.moditect.layrry.Layrry.main(args);
+        org.moditect.layrry.launcher.LayrryLauncher.main(args);
     }
 }
